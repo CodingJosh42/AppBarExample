@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppBarExample</string>
+    <string name="tschuess">Tschüss</string>
+    <string name="hallo">Hallo</string>
+    <string name="green">green</string>
+    <string name="red">red</string>
+    <string name="Tschüss">tschuess</string>
 </resources>
